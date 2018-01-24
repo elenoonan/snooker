@@ -1,0 +1,2 @@
+# snooker
+alternative snooker game
